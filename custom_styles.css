@@ -1,0 +1,46 @@
+/* Body Styles */
+body {
+    font-family: 'Arial', sans-serif; /* Font style */
+    background-color: #f4f4f4;        /* Light background color */
+    color: #333;                      /* Dark text color */
+}
+
+/* Header Styles */
+header {
+    background: #007BFF;              /* Header background color */
+    color: white;                     /* Header text color */
+    padding: 10px 20px;               /* Padding for the header */
+    text-align: center;               /* Centered text */
+}
+
+/* Logo Styles */
+.logo img {
+    width: 150px;                     /* Adjust logo size */
+    height: auto;                      /* Keep aspect ratio */
+}
+
+/* Section Styles */
+section {
+    margin: 20px;                    /* Margin around sections */
+    padding: 20px;                   /* Padding inside sections */
+    background: white;               /* Section background color */
+    border-radius: 5px;             /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Shadow for depth */
+}
+
+/* Link Styles */
+a {
+    color: #007BFF;                   /* Link color */
+    text-decoration: none;            /* Remove underline */
+}
+a:hover {
+    text-decoration: underline;       /* Underline on hover */
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;               /* Centered footer text */
+    padding: 10px 0;                 /* Padding for footer */
+    background: #333;                 /* Footer background color */
+    color: white;                     /* Footer text color */
+}
